@@ -2,6 +2,6 @@
 Individual Project for the Advanced Applications in Biology class - Exercises of population Genetics using R.
 
 Includes:
-- [Results report](AAB_MiguelCasanova.docx)
+- [Results report](AAB_MiguelCasanova.pdf)
 - [A R script with all functions needed for the analysis](functions.R) 
 - [A R script with the code for the analysis](MiguelCasanova_AAB.R)
